@@ -1,18 +1,21 @@
 # Elixir-Learning-Resources
 
-### Intention of this repo is to collect all the publicly available learning materials
+### Intention of this repo is to collect all the publicly available learning resounces
 only freely available content, no paid content or courses adding here
 
-there are lot of learning resources and blog available but they sccattered across,
-### i'm trying to help new comers to Elixir ecosystem
+there are lot of learning resources and blogs are available but they sccattered across,
 
-#### Contributions are highly welcome
+
+#### Contributions are highly welcome, please add more and more resources here
 
 
 ## Elixir
 
 Official Documents
 https://elixir-lang.org/docs.html
+
+AwesomeElixir is list of Elixir Libraries
+https://github.com/h4cc/awesome-elixir
 
 Alchemist Camp
 https://www.youtube.com/channel/UCp5Nix6mJCoLkH_GqcRRp1A
@@ -41,11 +44,17 @@ https://www.youtube.com/c/Plangora/videos
 how to use react components
 https://www.youtube.com/watch?v=FqI8YqnDJsI
 
+Peter and Code
+https://www.youtube.com/channel/UCiKq_ns5yMQcmcSPS17q9jg/videos
+
 
 ### Other useful links
 
 Elixir Style Guide
 https://github.com/christopheradams/elixir_style_guide
+
+Elixir Forum
+https://elixirforum.com
 
 Multiple useful snippent
 https://til.hashrocket.com/elixir
@@ -60,7 +69,18 @@ Launching Python in Elixir
 https://prograils.com/python-in-elixir
 
 
+Metaprogramming in Elixir
+https://dev.to/serokell/metaprogramming-in-elixir-2ij2
 
+Underjord
+https://underjord.io/blog.html
+
+Blackode Elixir Journals
+https://elixirforum.com/t/blackode-elixir-journals/15391/7
+
+Elixir: Time for Some Configuration
+https://blog.nytsoi.net/2020/05/05/elixir-time-for-configuration
+https://blog.nytsoi.net/2021/04/17/elixir-simple-configuration
 
   #### Books
 
@@ -75,19 +95,43 @@ https://web.archive.org/web/20210121040703/https://blog.appsignal.com/2020/12/16
 
 https://www.youtube.com/playlist?list=PLgymV6ZBLixyDVve-D4dEpJgNf8eUb5qF
 
+Surface
+https://elixircasts.io/surface
+
 The Pragmatic Studio
 https://pragmaticstudio.com/tutorials/getting-started-with-phoenix-liveview
 
 Tailwind cheat-sheet
 https://nerdcave.com/tailwind-cheat-sheet
 
+https://fullstackphoenix.com/tutorials
+
+Video chat app
+https://medium.com/@leo_hetsch/building-a-ride-sharing-app-with-elixir-and-phoenix-channels-part-1-17bbd292aec4
+
+Ride sharing app
+https://medium.com/@leo_hetsch/building-a-ride-sharing-app-with-elixir-and-phoenix-channels-part-1-17bbd292aec4
+
+Let's Build An Instagram Clone With The PETAL(Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView) Stack
+https://dev.to/elixirprogrammer/let-s-build-an-instagram-clone-with-the-petal-phoenix-elixir-tailwindcss-alpinejs-liveview-stack-263n
+
+Content Security Policy configuration (in Phoenix)
+https://furlough.merecomplexities.com/elixir/phoenix/security/2021/02/26/content-security-policy-configuration-in-phoenix.html
+
+
 ## Ecto
 
+A Quick Glance Around Ecto v3 (ALPHA)
 https://pages.rising.land/the-books-of-alchemy/a-quick-glance-around-ecto-v3/index.html
 
+Understanding Associations in Elixir's Ecto
 https://web.archive.org/web/20210110052704/https://blog.appsignal.com/2020/11/10/understanding-associations-in-elixir-ecto.html
 
+ecto-migrations-simple-to-complex
 https://hashrocket.com/blog/posts/ecto-migrations-simple-to-complex
+
+How database transactions work in Ecto and why Elixir makes it awesome?
+https://curiosum.dev/blog/elixir-ecto-database-transactions
 
 ## Absinthe/GraphQL
 
@@ -97,6 +141,15 @@ https://www.youtube.com/playlist?list=PLw7bfDlTRWbgiApK7X1bRKJJ03xoDU3hm
 
 ## Authentication
 
+
+
+## Nerves
+
+IoT build birdhouse
+https://dasky.xyz/posts/2020/08/12/an-iot-birdhouse-with-elixir-nerves-phoenix-liveview-components/
+
+Nerves examples
+https://github.com/nerves-project/nerves_examples
 
 
 
