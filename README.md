@@ -3,7 +3,7 @@
 ### Intention of this repo is to collect all the publicly available learning resounces
 only freely available content, no paid content or courses adding here
 
-there are lot of learning resources and blogs are available but they sccattered across,
+there are lot of learning resources and blogs are available but they sccattered across, so pooling them here
 
 
 #### Contributions are highly welcome, please add more and more resources here
