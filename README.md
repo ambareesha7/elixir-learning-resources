@@ -23,6 +23,9 @@ https://www.youtube.com/channel/UCp5Nix6mJCoLkH_GqcRRp1A
 Groxio
 https://www.youtube.com/c/Groxio/videos
 
+Elixir Course by Taxfix
+https://github.com/taxfix/elixir-course
+
 Tensor Programming
 https://www.youtube.com/playlist?list=PLJbE2Yu2zumA-p21bEQB6nsYABAO-HtF2
 
