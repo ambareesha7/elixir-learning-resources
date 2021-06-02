@@ -20,6 +20,9 @@ https://github.com/h4cc/awesome-elixir
 Alchemist Camp
 https://www.youtube.com/channel/UCp5Nix6mJCoLkH_GqcRRp1A
 
+Groxio
+https://www.youtube.com/c/Groxio/videos
+
 Tensor Programming
 https://www.youtube.com/playlist?list=PLJbE2Yu2zumA-p21bEQB6nsYABAO-HtF2
 
@@ -93,6 +96,7 @@ https://web.archive.org/web/20210121040703/https://blog.appsignal.com/2020/12/16
 
 ## Phoenix
 
+Phoenix API
 https://www.youtube.com/playlist?list=PLgymV6ZBLixyDVve-D4dEpJgNf8eUb5qF
 
 Surface
