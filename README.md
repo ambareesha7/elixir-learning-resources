@@ -158,5 +158,8 @@ https://dasky.xyz/posts/2020/08/12/an-iot-birdhouse-with-elixir-nerves-phoenix-l
 Nerves examples
 https://github.com/nerves-project/nerves_examples
 
+## Blockchain 
 
+blockchain related github links
+https://github.com/search?l=Elixir&o=desc&p=2&q=blockchain+elixir&s=updated&type=Repositories
 
