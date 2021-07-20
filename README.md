@@ -11,8 +11,14 @@ there are lot of learning resources and blogs are available but they sccattered 
 
 ## Elixir
 
-Official Documents
-https://elixir-lang.org/docs.html
+Official Documents:
+  https://elixir-lang.org/docs.html
+
+Elixir Style Guide
+https://github.com/christopheradams/elixir_style_guide
+
+Elixir Forum
+https://elixirforum.com
 
 AwesomeElixir is list of Elixir Libraries
 https://github.com/h4cc/awesome-elixir
@@ -54,14 +60,6 @@ Peter and Code
 https://www.youtube.com/channel/UCiKq_ns5yMQcmcSPS17q9jg/videos
 
 
-### Other useful links
-
-Elixir Style Guide
-https://github.com/christopheradams/elixir_style_guide
-
-Elixir Forum
-https://elixirforum.com
-
 Multiple useful snippent
 https://til.hashrocket.com/elixir
 
@@ -81,12 +79,18 @@ https://dev.to/serokell/metaprogramming-in-elixir-2ij2
 Underjord
 https://underjord.io/blog.html
 
+Kelvinstin
+https://www.twitch.tv/kelvinstin
+
 Blackode Elixir Journals
 https://elixirforum.com/t/blackode-elixir-journals/15391/7
 
 Elixir: Time for Some Configuration
 https://blog.nytsoi.net/2020/05/05/elixir-time-for-configuration
 https://blog.nytsoi.net/2021/04/17/elixir-simple-configuration
+
+A gentle introduction to distributed Elixir 
+https://bigardone.dev/blog/2021/05/22/three-real-world-examples-of-distributed-elixir-pt-1
 
   #### Books
 
@@ -127,6 +131,9 @@ https://furlough.merecomplexities.com/elixir/phoenix/security/2021/02/26/content
 
 
 ## Ecto
+
+The Little Ecto Cookbook By Dash bit
+https://drive.google.com/file/d/1nUAleNEqNKnu9x1TXS3s8GiKpxeCl8a9/view?usp=sharing
 
 A Quick Glance Around Ecto v3 (ALPHA)
 https://pages.rising.land/the-books-of-alchemy/a-quick-glance-around-ecto-v3/index.html
