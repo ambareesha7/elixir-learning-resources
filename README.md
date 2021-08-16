@@ -11,7 +11,7 @@ there are lot of learning resources and blogs are available but they sccattered 
 
 ## Elixir
 
-[Official Documents](https://elixir-lang.org/docs.html)
+[Official Documents(recommendend guide)](https://elixir-lang.org/getting-started/introduction.html)
 
 [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide)
 
