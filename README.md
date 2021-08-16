@@ -95,11 +95,9 @@ there are lot of learning resources and blogs are available but they sccattered 
 
 [Ride sharing app](https://medium.com/@leo_hetsch/building-a-ride-sharing-app-with-elixir-and-phoenix-channels-part-1-17bbd292aec4)
 
-[Let's Build An Instagram Clone With The PETAL(Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView) Stack]
-(https://dev.to/elixirprogrammer/let-s-build-an-instagram-clone-with-the-petal-phoenix-elixir-tailwindcss-alpinejs-liveview-stack-263n)
+[Let's Build An Instagram Clone With The PETAL(Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView) Stack](https://dev.to/elixirprogrammer/let-s-build-an-instagram-clone-with-the-petal-phoenix-elixir-tailwindcss-alpinejs-liveview-stack-263n)
 
-[Content Security Policy configuration (in Phoenix)]
-(https://furlough.merecomplexities.com/elixir/phoenix/security/2021/02/26/content-security-policy-configuration-in-phoenix.html)
+[Content Security Policy configuration (in Phoenix)](https://furlough.merecomplexities.com/elixir/phoenix/security/2021/02/26/content-security-policy-configuration-in-phoenix.html)
 
 
 ## Ecto
