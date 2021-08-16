@@ -19,6 +19,8 @@ there are lot of learning resources and blogs are available but they sccattered 
 
 [AwesomeElixir is list of Elixir Libraries](https://github.com/h4cc/awesome-elixir)
 
+### YouTube Channel's
+
 [Alchemist Camp](https://www.youtube.com/channel/UCp5Nix6mJCoLkH_GqcRRp1A)
 
 [Groxio](https://www.youtube.com/c/Groxio/videos)
@@ -42,7 +44,7 @@ there are lot of learning resources and blogs are available but they sccattered 
 [Peter and Code](https://www.youtube.com/channel/UCiKq_ns5yMQcmcSPS17q9jg/videos)
 
 
-## Other Blog's and Article's
+## Blog's and Article's
 
 [Multiple useful snippent](https://til.hashrocket.com/elixir)
 
@@ -67,12 +69,13 @@ there are lot of learning resources and blogs are available but they sccattered 
 
 [A gentle introduction to distributed Elixir](https://bigardone.dev/blog/2021/05/22/three-real-world-examples-of-distributed-elixir-pt-1)
 
+[Blogs by AppSignal](https://web.archive.org/web/20210121040703/https://blog.appsignal.com/2020/12/16/top-5-elixir-posts-in-2020-from-appsignal.html)
 
   #### Books
 
 [Syncfution](https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly/introduction)
 
-[Blogs by AppSignal](https://web.archive.org/web/20210121040703/https://blog.appsignal.com/2020/12/16/top-5-elixir-posts-in-2020-from-appsignal.html)
+
 
 
 
