@@ -45,7 +45,8 @@ there are lot of learning resources and blogs are available but they sccattered 
 
 ## Other Resources
 
-[Elixir School]() 
+[Elixir School](https://elixirschool.com/en/) 
+
 ## Blog's and Article's
 
 [Multiple useful snippent](https://til.hashrocket.com/elixir)
