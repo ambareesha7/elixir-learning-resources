@@ -43,7 +43,9 @@ there are lot of learning resources and blogs are available but they sccattered 
 
 [Peter and Code](https://www.youtube.com/channel/UCiKq_ns5yMQcmcSPS17q9jg/videos)
 
+## Other Resources
 
+[Elixir School]() 
 ## Blog's and Article's
 
 [Multiple useful snippent](https://til.hashrocket.com/elixir)
