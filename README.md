@@ -1,7 +1,7 @@
 # Elixir-Learning-Resources
 
 ### Intention of this repo is to collect all the publicly available learning resounces
-only freely available content, no paid content or courses adding here
+
 
 there are lot of learning resources and blogs are available but they sccattered across, so pooling them here
 
@@ -42,6 +42,8 @@ there are lot of learning resources and blogs are available but they sccattered 
 [how to use react components](https://www.youtube.com/watch?v=FqI8YqnDJsI)
 
 [Peter and Code](https://www.youtube.com/channel/UCiKq_ns5yMQcmcSPS17q9jg/videos)
+
+[ElixirConf](https://www.youtube.com/c/ElixirConf/videos) 
 
 ## Other Resources
 
