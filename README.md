@@ -45,6 +45,10 @@ there are lot of learning resources and blogs are available but they sccattered 
 
 [ElixirConf](https://www.youtube.com/c/ElixirConf/videos) 
 
+[Code Dexterity](https://www.youtube.com/channel/UC8Pz6DKs7Kw-qCeJkS9D8iQ)
+
+[Code Please](https://www.youtube.com/c/CodePlease13)
+
 ## Other Resources
 
 [Elixir School](https://elixirschool.com/en/) 
@@ -104,6 +108,11 @@ there are lot of learning resources and blogs are available but they sccattered 
 
 [Content Security Policy configuration (in Phoenix)](https://furlough.merecomplexities.com/elixir/phoenix/security/2021/02/26/content-security-policy-configuration-in-phoenix.html)
 
+### Absinthe/GraphQL
+
+[Tivelop](https://www.youtube.com/playlist?list=PLw7bfDlTRWbgiApK7X1bRKJJ03xoDU3hm)
+
+[GraphQL API, Elixir, Phoenix](https://www.youtube.com/playlist?list=PLXv5LxnUqHxNm_dMzmD5YtFKAe5Fh9lZt)
 
 ## Ecto
 
@@ -116,10 +125,6 @@ there are lot of learning resources and blogs are available but they sccattered 
 [ecto-migrations-simple-to-complex](https://hashrocket.com/blog/posts/ecto-migrations-simple-to-complex)
 
 [How database transactions work in Ecto and why Elixir makes it awesome?](https://curiosum.dev/blog/elixir-ecto-database-transactions)
-
-## Absinthe/GraphQL
-
-[Tivelop](https://www.youtube.com/playlist?list=PLw7bfDlTRWbgiApK7X1bRKJJ03xoDU3hm)
 
 
 
